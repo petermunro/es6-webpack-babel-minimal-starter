@@ -16,6 +16,3 @@ The sample `js/app.js` imports and uses jQuery, but only as an example.
 It's not a `package.json` dependency, so you'll need to `npm install jquery`
 too if you want to use it.
 
-The entry point `build/index.html` (which contains a `<script>` element
-to load `bundle.js`) is currently hand-built and not yet automated.
-
